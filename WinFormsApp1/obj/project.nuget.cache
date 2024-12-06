@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3ZDylk4Ff7OpQ2mkzyDDyGOSvjnVuUeEpNzqRniWqY51s1SVPBOWojxmTAmVjNVxy7qypNnVwD+C6Mo+22F/9g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\puppz\\source\\repos\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\puppz\\.nuget\\packages\\microsoft.web.webview2\\1.0.2903.40\\microsoft.web.webview2.1.0.2903.40.nupkg.sha512"
+  ],
+  "logs": []
+}
